@@ -1,6 +1,6 @@
 name="----- SERVER 1 -----"
 version=" "
-url="https://www.dropbox.com/scl/fi/9umsm4ow7epk1g90yzj5j/Fire.zip?rlkey=mpx973ipgd8uod8bktnn5kgd1&st=8b0ttmcy&dl=1
+url=https://www.dropbox.com/scl/fi/5jj372txw0qwue456uh1c/BondHome.zip?rlkey=s5xyphtuxg0c71iqjhibejlif&st=cr0cv56j&dl=1
 "
 gui="http://"
 kodi="18.0"
@@ -8,11 +8,11 @@ theme="http://"
 icon="https://github.com/Bondnow/Ross/blob/main/fanart1.jpg?raw=true"
 fanart="https://github.com/Bondnow/Ross/blob/main/fanart1.jpg?raw=true"
 adult="no"
-description="No Limits Magic Leia Build. This full version of the build has a XXX Adult Section. Use this version with devices that have 2GB+ RAM."
+description="Bondnow Leia Build. This full version of the build has a XXX Adult Section. Use this version with devices that have 2GB+ RAM."
 
 name="Bondnow Android-Adult"
 version=" "
-url="https://www.dropbox.com/scl/fi/9umsm4ow7epk1g90yzj5j/Fire.zip?rlkey=mpx973ipgd8uod8bktnn5kgd1&st=8b0ttmcy&dl=1"
+url="https://www.dropbox.com/scl/fi/5jj372txw0qwue456uh1c/BondHome.zip?rlkey=s5xyphtuxg0c71iqjhibejlif&st=cr0cv56j&dl=1"
 gui="http://"
 kodi="18.0"
 theme="http://"
@@ -23,7 +23,7 @@ description="Bondnow Leia Build. This full version of the build has a XXX Adult 
 
 name="Bondnow Firestick Family"
 version=" "
-url=https://www.dropbox.com/scl/fi/9umsm4ow7epk1g90yzj5j/Fire.zip?rlkey=mpx973ipgd8uod8bktnn5kgd1&st=8b0ttmcy&dl=1"
+url=https://www.dropbox.com/scl/fi/961lhzp9fbbmgin21pstk/FIREH.zip?rlkey=6cbtutynlirw2aeeqwnxfz3kc&st=vdt5rm4a&dl=1"
 gui="http://"
 kodi="18.0"
 theme="http://"
