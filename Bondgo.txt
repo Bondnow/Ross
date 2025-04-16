@@ -12,7 +12,7 @@ description="Bondnow Leia Build. This full version of the build has a XXX Adult 
 
 name="BondHome Android-Adult"
 version=" "
-url="https://www.dropbox.com/scl/fi/q4gqb7r5emi9fio2y36dg/BondHome.zip?rlkey=ij00m3cexz050ift468c8gj5i&st=eem39h86&dl=1"
+url="https://www.dropbox.com/scl/fi/q4gqb7r5emi9fio2y36dg/BondHome.zip?rlkey=ij00m3cexz050ift468c8gj5i&st=c95qapq7&dl=1"
 gui="http://"
 kodi="18.0"
 theme="http://"
@@ -23,7 +23,7 @@ description="Bondnow Leia Build. This full version of the build has a XXX Adult 
 
 name="BondHome Firestick "
 version=" "
-url="https://www.dropbox.com/scl/fi/zijuu9pd03h71ruxpcydj/FireHome.zip?rlkey=dbjl4srsbcqc6vqm4fby6oktq&st=4kiyjmha&dl=1"
+url="https://www.dropbox.com/scl/fi/zijuu9pd03h71ruxpcydj/FireHome.zip?rlkey=dbjl4srsbcqc6vqm4fby6oktq&st=q4jn6j8z&dl=01"
 gui="http://"
 kodi="18.0"
 theme="http://"
