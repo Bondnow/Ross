@@ -12,7 +12,7 @@ description="Bondnow Leia Build. This full version of the build has a XXX Adult 
 
 name="Bondnow Android-Adult"
 version=" "
-url="https://www.dropbox.com/scl/fi/961lhzp9fbbmgin21pstk/AND.zip?rlkey=6cbtutynlirw2aeeqwnxfz3kc&st=korlcmc2&dl=1"
+url="https://www.dropbox.com/scl/fi/bjirgjnswq16s4yycwcwa/BondAnd.zip?rlkey=uppukx3n99tfrh40p54qph2ry&st=0hxyaohr&dl=1"
 gui="http://"
 kodi="18.0"
 theme="http://"
