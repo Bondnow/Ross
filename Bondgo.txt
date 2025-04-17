@@ -10,7 +10,7 @@ fanart="https://github.com/Bondnow/Ross/blob/main/fanart1.jpg?raw=true"
 adult="no"
 description="Bondnow Leia Build. This full version of the build has a XXX Adult Section. Use this version with devices that have 2GB+ RAM."
 
-name="Bondnow Android-Adult"
+name="BondhomeAndroid-Adult"
 version=" "
 url="https://www.dropbox.com/scl/fi/q4gqb7r5emi9fio2y36dg/BondHome.zip?rlkey=ij00m3cexz050ift468c8gj5i&st=46u92vkp&dl=1"
 gui="http://"
