@@ -35,7 +35,7 @@ description="Bondnow Leia Build. This full version of the build does not have a 
 
 
 
-name="Bondhome Firestick "
+name="Bondhome Firestick1 "
 version=" "
 url="https://www.dropbox.com/scl/fi/zijuu9pd03h71ruxpcydj/FireHome.zip?rlkey=dbjl4srsbcqc6vqm4fby6oktq&st=t34kkkzc&dl=1"
 gui="http://"
