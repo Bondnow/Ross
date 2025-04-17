@@ -21,9 +21,10 @@ fanart="https://github.com/Bondnow/Ross/blob/main/fanart1.jpg?raw=true"
 adult="yes"
 description="Bondnow Leia Build. This full version of the build has a XXX Adult Section. Use this version with devices that have 2GB+ RAM."
 
-name="Bondhome Firestick "
+
+name="Bondnow Firestick Family"
 version=" "
-url="https://www.dropbox.com/scl/fi/zijuu9pd03h71ruxpcydj/FireHome.zip?rlkey=dbjl4srsbcqc6vqm4fby6oktq&st=t34kkkzc&dl=1"
+url="https://www.dropbox.com/scl/fi/em7v3v8f81yf3235bjrl8/FireFamily.zip?rlkey=yijnk8tcq5hxxhr03kygu7xp7&st=ftyk83nu&dl=1"
 gui="http://"
 kodi="18.0"
 theme="http://"
@@ -33,19 +34,20 @@ adult="no"
 description="Bondnow Leia Build. This full version of the build does not have a XXX Adult Section.
  Use this version with devices that have 2GB+ RAM."
 
-
-
-name="Bondhome Firestick1 "
+name="Bondnow Firestick-Adult"
 version=" "
-url="https://www.dropbox.com/scl/fi/zijuu9pd03h71ruxpcydj/FireHome.zip?rlkey=dbjl4srsbcqc6vqm4fby6oktq&st=t34kkkzc&dl=1"
+url="https://www.dropbox.com/scl/fi/94e9e0x4n7vsdyzt5qeiw/Firexxx.zip?rlkey=380ln7pnyjqzo07r8z7owc0tz&st=coc9omg7&dl=1"
 gui="http://"
 kodi="18.0"
 theme="http://"
 icon="https://github.com/Bondnow/Ross/blob/main/fanart1.jpg?raw=true"
 fanart="https://github.com/Bondnow/Ross/blob/main/fanart1.jpg?raw=true"
-adult="no"
+preview="http://"
+adult="yes"
 description="Bondnow Leia Build. This full version of the build does not have a XXX Adult Section.
- Use this version with devices that have 2GB+ RAM."
+ Use this version with devices that hav
+
+
 
 
 
