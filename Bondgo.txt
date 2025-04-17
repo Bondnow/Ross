@@ -1,18 +1,18 @@
 name="----- SERVER 1 -----"
 version=" "
-url="https://www.dropbox.com/scl/fi/5jj372txw0qwue456uh1c/BondHome.zip?rlkey=s5xyphtuxg0c71iqjhibejlif&st=cr0cv56j&dl=1
+url="https://www.dropbox.com/scl/fi/961lhzp9fbbmgin21pstk/AND.zip?rlkey=6cbtutynlirw2aeeqwnxfz3kc&st=korlcmc2&dl=1
 "
 gui="http://"
 kodi="18.0"
 theme="http://"
-icon=" https://github.com/Bondnow/Ross/blob/main/fanart1.jpg?raw=true"
+icon="https://github.com/Bondnow/Ross/blob/main/fanart1.jpg?raw=true"
 fanart="https://github.com/Bondnow/Ross/blob/main/fanart1.jpg?raw=true"
 adult="no"
 description="Bondnow Leia Build. This full version of the build has a XXX Adult Section. Use this version with devices that have 2GB+ RAM."
 
-name="BondHome Android-Adult"
+name="Bondhome Android"
 version=" "
-url=" https://www.dropbox.com/scl/fi/zijuu9pd03h71ruxpcydj/FireHome.zip?rlkey=dbjl4srsbcqc6vqm4fby6oktq&st=jft4ksrk&dl=1"
+url="https://www.dropbox.com/scl/fi/q4gqb7r5emi9fio2y36dg/BondHome.zip?rlkey=ij00m3cexz050ift468c8gj5i&st=a57npbzm&dl=1"
 gui="http://"
 kodi="18.0"
 theme="http://"
@@ -21,14 +21,16 @@ fanart="https://github.com/Bondnow/Ross/blob/main/fanart1.jpg?raw=true"
 adult="yes"
 description="Bondnow Leia Build. This full version of the build has a XXX Adult Section. Use this version with devices that have 2GB+ RAM."
 
-name="BondHome Firestick "
+name="Bondhome Firestick"
 version=" "
-url="https://www.dropbox.com/scl/fi/zijuu9pd03h71ruxpcydj/FireHome.zip?rlkey=dbjl4srsbcqc6vqm4fby6oktq&st=q4jn6j8z&dl=01"
+url="https://www.dropbox.com/scl/fi/zijuu9pd03h71ruxpcydj/FireHome.zip?rlkey=dbjl4srsbcqc6vqm4fby6oktq&st=t40dk6qc&dl=1"
 gui="http://"
 kodi="18.0"
 theme="http://"
 icon="https://github.com/Bondnow/Ross/blob/main/fanart1.jpg?raw=true"
 fanart="https://github.com/Bondnow/Ross/blob/main/fanart1.jpg?raw=true"
 adult="no"
-description="Bondnow Leia Build. This full version of the build does not have a XXX Adult Section. Use this version with devices that have 2GB+ RAM."
+description="Bondnow Leia Build. This full version of the build does not have a XXX Adult Section.
+ Use this version with devices that have 2GB+ RAM."
+
 
