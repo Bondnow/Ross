@@ -34,3 +34,21 @@ description="Bondnow Leia Build. This full version of the build does not have a 
  Use this version with devices that have 2GB+ RAM."
 
 
+
+name="Bondhome Firestick "
+version=" "
+url="https://www.dropbox.com/scl/fi/zijuu9pd03h71ruxpcydj/FireHome.zip?rlkey=dbjl4srsbcqc6vqm4fby6oktq&st=t34kkkzc&dl=1"
+gui="http://"
+kodi="18.0"
+theme="http://"
+icon="https://github.com/Bondnow/Ross/blob/main/fanart1.jpg?raw=true"
+fanart="https://github.com/Bondnow/Ross/blob/main/fanart1.jpg?raw=true"
+adult="no"
+description="Bondnow Leia Build. This full version of the build does not have a XXX Adult Section.
+ Use this version with devices that have 2GB+ RAM."
+
+
+
+
+
+
